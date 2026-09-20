@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor / OS junk
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Office lock files
+~$*
