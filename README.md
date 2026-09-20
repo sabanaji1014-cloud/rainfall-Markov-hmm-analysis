@@ -31,7 +31,7 @@ The analysis has three parts, all reproduced by the single script
 The full write-up, methodology and results tables are in [`report/`](report).
 
 ## Repository structure
-
+```
 .
 ├── data/
 │ ├── raw/
@@ -51,7 +51,7 @@ The full write-up, methodology and results tables are in [`report/`](report).
 │ └── Stochastic processes.pdf # Compiled PDF version
 ├── requirements.txt
 └── .gitignore
-
+```
 
 ## About `analysis.py`
 
